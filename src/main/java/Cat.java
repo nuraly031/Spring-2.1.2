@@ -1,5 +1,4 @@
-public class HelloWorld {
-
+public class Cat {
     private String message;
 
     public String getMessage() {
@@ -9,5 +8,4 @@ public class HelloWorld {
     public void setMessage(String message) {
         this.message = message;
     }
-
 }
